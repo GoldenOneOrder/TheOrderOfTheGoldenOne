@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/TheFullSet.png
+cover: .gitbook/assets/All-Temples-Of-Egypt1.jpg
 coverY: 0
 ---
 
