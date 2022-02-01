@@ -8,7 +8,7 @@ Compounding your Membership NFT gives you extra rewards. As your daily reward gr
 
 Compounding is available every 4 hours. Individual as well as all NFTs may be compounded by using the button "Compound All" button.
 
-![](.gitbook/assets/TheFullSet.png)
+![](<.gitbook/assets/TheFullSet (1).png>)
 
 The current tiers are:
 

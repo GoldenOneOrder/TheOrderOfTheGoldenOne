@@ -2,7 +2,7 @@
 
 ### FORFEIT YOUR COIN TO JOIN THE ORDER
 
-Instead of sending your coins to the owner of the project when creating a node that automatically sells them and feeds a never-ending bearish loop you instead automatically burns 72% of your coins **** when minting a NFT, helping make the supply more scarce.
+Different from other "node token' protocols where 100% of the funds are sent to the treasury before rewards are distributed, only 28% of KIN is added as liquidity to the treasury when joining the order. The remaining 78% is burned.. keeping the supply of KIN scarce and the value of KIN high.
 
 ### A NFT THAT EARNS PERPETUAL REWARDS
 
