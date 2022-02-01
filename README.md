@@ -6,7 +6,7 @@ coverY: 0
 
 # ☀ Genesis
 
-The Order of the Golden One is an order generating passive income wealth strategies on the Avalanche blockchain for the benefit of its members by offering DaaS (DeFi as a service).&#x20;
+The Order of the Golden One is devoted towards generating passive income wealth strategies on the Avalanche blockchain for the benefit of its members by offering DaaS (DeFi as a service).&#x20;
 
 The Order is powered by its initiates who agree to lock up their GLDN token forever by minting membership NFTs that pay you back through perpetual yield at a high APR. Membership NFTs from the order can be compounded to earn extra rewards.
 
