@@ -8,7 +8,7 @@ coverY: 0
 
 The Order of the Golden One is devoted towards generating passive income wealth strategies on the Avalanche blockchain for the benefit of its members by offering DaaS (DeFi as a service).&#x20;
 
-The Order is powered by its initiates who agree to lock up their TMPLKN token forever by minting membership NFTs that pay you back through perpetual yield at a high APR. Membership NFTs from the order can be compounded to earn extra rewards.
+The Order is powered by its initiates who agree to lock up their Temple Kin (KIN) token forever by minting membership NFTs that pay you back through perpetual yield at a high APR. Membership NFTs from the order can be compounded to earn extra rewards.
 
 Membership order NFTs can be transferred, exchanged, and traded outside the main GLDN token. Membership NFTs also offer solutions for governance through visibility on the blockchain and ability to participate in voting on proposals with voting power being decided by the total value an initiate as locked across all order NFTs.
 
