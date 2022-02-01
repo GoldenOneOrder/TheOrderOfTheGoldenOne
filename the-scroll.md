@@ -1,5 +1,8 @@
 ---
 description: The Order of the Golden One Protocol
+cover: >-
+  https://images.unsplash.com/photo-1467688695332-6b486449d78f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxzY3JvbGx8ZW58MHx8fHwxNjQzNjkxMjYz&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # 📜 The Scroll
