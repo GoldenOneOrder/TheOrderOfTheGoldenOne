@@ -13,7 +13,7 @@ All our smart contracts, balances and liquidity lock are publicly available, and
 
 **Auditing**
 
-In-house audits and quality assurance process aside, the Universe team is always looking to get additional audits to ensure that the contracts are constantly being reviewed and are as secure as possible. We are looking forward to making our first public audit by the end of Q3 2022.
+In-house audits and quality assurance process aside, the Order is always looking to get additional audits to ensure that the contracts are constantly being reviewed and are as secure as possible. We are looking forward to making our first public audit by the end of Q3 2022.
 
 **Anonymity**
 
