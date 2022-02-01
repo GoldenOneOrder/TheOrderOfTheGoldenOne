@@ -5,3 +5,4 @@
 * [📜 The Scroll](the-scroll.md)
 * [🕍 Grades and Initiations](grades-and-initiations.md)
 * [🛕 The Temple](the-temple.md)
+* [🔐 Security](security.md)
