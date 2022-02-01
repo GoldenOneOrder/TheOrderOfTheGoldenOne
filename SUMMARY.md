@@ -6,3 +6,4 @@
 * [🕍 Grades and Initiations](grades-and-initiations.md)
 * [🛕 The Temple](the-temple.md)
 * [🔐 Security](security.md)
+* [📔 Smart Contract](smart-contract.md)
