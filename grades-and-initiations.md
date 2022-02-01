@@ -1,5 +1,8 @@
 ---
 description: Compound Rewards for Passive Income
+cover: >-
+  https://images.unsplash.com/photo-1570026517541-258404ea3bfc?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxweXJhbWlkfGVufDB8fHx8MTY0MzY5MTIxMg&ixlib=rb-1.2.1&q=85
+coverY: -206.920245398773
 ---
 
 # 🕍 Grades and Initiations

@@ -1,3 +1,7 @@
+---
+description: The Order of the Golden One Protocol
+---
+
 # 📜 The Scroll
 
 ### Burn your token to enter a Grade
