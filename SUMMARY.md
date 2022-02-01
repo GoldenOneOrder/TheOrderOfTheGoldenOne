@@ -7,3 +7,5 @@
 * [🛕 The Temple](the-temple.md)
 * [🔐 Security](security.md)
 * [📔 Smart Contract](smart-contract.md)
+* [Discord](https://discord.gg/JvzqJYyUv6)
+* [Twitter](https://twitter.com/goldenoneorder)
