@@ -1,5 +1,6 @@
 ---
-cover: .gitbook/assets/All-Temples-Of-Egypt1.jpg
+cover: >-
+  https://images.unsplash.com/photo-1616177635753-920dee141885?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxpbGx1bWluYXRpfGVufDB8fHx8MTY0MzY5MjgyMg&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
