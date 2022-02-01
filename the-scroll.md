@@ -27,8 +27,6 @@ Instead of massive micro-sells triggered by compounding/reward claims, followed 
 
 Smart Daily Limits are innovations to keep liquidity pools safer from bots and vicious whales, making the Temple Kin token the safest node-type of token to hold. Wallets are limited to only accumulating a number of tokens per day. They can always sell what they have bought at any time which allows swing trading. They can always safely claim rewards of the planet(s) but transferring or selling them more than the daily limit will require them to wait the next day. This way, no one can buy a significant part of the supply on launch and no one can sell a significant amount of rewards at once.&#x20;
 
-The total supply is 42 billion KIN tokens. The launch price is 42B tokens for $10,000 ($0,000000238095238 per KIN). 100% of the liquidity were added during the fair launch, on 01/25/22. The minimum to create a Planet at launch is 42,000 KIN ($0,01). With the [burn mechanism](https://docs.univ.money/what-is-universe/the-solution#burn-your-coins-to-build-a-planet), it makes the supply elastic based on the supply and the demand. A portion of the liquidity is reserved for yield farming and staking across multiple [selected products](https://docs.univ.money/technical-details/supported-protocols) whose rewards are also bought back and burned as [explained here](https://docs.univ.money/what-is-universe/the-solution#innovative-buy-back-and-burn-mechanism). Wallets are subject to Smart Daily Limits as explained [here](https://docs.univ.money/technical-details/smart-daily-limits).
-
 ### OPTIMISED FOR PERFORMANCE, RELIABILITY AND SECURITY
 
 The contract has been rewritten from the ground up to keep in mind the performance, security, reliability, and clarity of code
