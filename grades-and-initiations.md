@@ -13,7 +13,7 @@ Compounding is available every 4 hours. Individual as well as all tokens may be 
 
 ![](<.gitbook/assets/TheFullSet (1).png>)
 
-The current tiers are:
+The current grades for the aspirant are:
 
 * **Probationer**: 0% bonus
 * **Neophyte**: 1-5% bonus (increase by 1%)
@@ -26,6 +26,6 @@ If you claim your rewards you will go back to Probationer but will keep what you
 
 For each tier, the bonus is calculated on top of the 4%. Example: for a Philosophus with 20% bonus it will be 4% + 20% of 4%.
 
-The higher tier you have, the more privileges and voting weight will be granted to your Grade tokens in the future.
+The higher Grade you have, the more privileges and voting weight will be granted to your Grade tokens in the future.
 
 ![](<.gitbook/assets/image (3).png>)
