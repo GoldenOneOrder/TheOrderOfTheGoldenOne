@@ -1,3 +1,10 @@
+---
+description: Protectors of the Order
+cover: >-
+  https://images.unsplash.com/photo-1612915588377-d6cdec724b09?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8cHJvdGVjdGlvbnxlbnwwfHx8fDE2NDM2OTMyMjY&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # 🔐 Security
 
 **Smart Contracts**
