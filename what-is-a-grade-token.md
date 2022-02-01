@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/All-Temples-Of-Egypt1.jpg
+coverY: 0
+---
+
 # 🪙 What is a Grade Token
 
 Our Grade tokens, similar to "node tokens" are a token where people who create "nodes" : lock their KIN in a Grade token forever.
