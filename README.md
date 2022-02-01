@@ -12,7 +12,11 @@ The Order is powered by its initiates who agree to lock up their Temple Kin (KIN
 
 Membership order NFT card's can be transferred, exchanged, and traded outside the main KIN token. Membership card's also offer solutions for governance through visibility on the blockchain and ability to participate in voting on proposals with voting power being decided by the total value an initiate as locked across all order NFTs.
 
-The result is a protocol that is ideal for long-term investors seeking passive income at a high APR while offering sustanability and ease.
+Membership cards will also carry with them future benefits such as governance, voting, and unlocking new rooms.
+
+The result is a protocol that is ideal for long-term investors seeking passive income at a high APR while offering sustainability and ease.
+
+We intend to be generous in donation from the treasury towards charities that will benefit the earth and its inhabitants. Amazon Watch and Best Friends are two such organizations considered currently.
 
 ![](.gitbook/assets/pd206-21a\_1.jpg)
 
