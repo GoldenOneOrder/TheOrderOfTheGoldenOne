@@ -1,7 +1,7 @@
 ---
 description: Welcome to the Order!
-cover: .gitbook/assets/universe-vintage-art-poster.jpg
-coverY: 0
+cover: .gitbook/assets/31697.jpg
+coverY: 248.46625766871162
 ---
 
 # ☀ Genesis

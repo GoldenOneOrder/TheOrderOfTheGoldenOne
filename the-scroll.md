@@ -11,13 +11,17 @@ coverY: 0
 
 Different from other "node token' protocols where 100% of the funds are sent to the treasury before rewards are distributed, only 28% of KIN is added as liquidity to the treasury when joining the order. The remaining 78% is burned.. keeping the supply of KIN scarce and the value of KIN high.
 
+{% hint style="info" %}
+In [alchemy](https://en.wikipedia.org/wiki/Alchemy), **nigredo**, means [putrefaction](https://en.wikipedia.org/wiki/Putrefaction) or [decomposition](https://en.wikipedia.org/wiki/Decomposition). Many alchemists believed that as a first step in the pathway to the [philosopher's stone](https://en.wikipedia.org/wiki/Philosopher's\_stone), all alchemical ingredients had to be cleansed and cooked extensively to a uniform black matter.
+{% endhint %}
+
 ### Earn Eternally
 
 Previously, nodes couldn't be transferred, bought, or sold on the market.&#x20;
 
-The Order's protocol adds the ERC-721 standard to the Node concept where they can be transferred, exchanged, and traded outside the main KIN token.
+The Order's protocol adds the ERC-721 standard to the Node concept where they can be transferred, exchanged, and traded outside the main KIN token.&#x20;
 
-Their lifetime rewards can always be redeemed to KIN tokens **instantly.**
+Their lifetime rewards can always be redeemed to KIN tokens **instantly,** at the speed of the sun.
 
 ### Maintain the Order
 

@@ -28,4 +28,4 @@ For each tier, the bonus is calculated on top of the 4%. Example: for a Philosop
 
 The higher Grade you have, the more privileges and voting weight will be granted to your Grade tokens in the future.
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (1).png>)
