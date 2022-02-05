@@ -16,7 +16,7 @@ Grade tokens will also carry with them future benefits such as governance, votin
 
 The result is a protocol that is ideal for long-term investors seeking passive income at a high APR while offering sustainability and ease.
 
-We intend to be generous in donation from the treasury towards charities that will benefit the earth and its inhabitants. Amazon Watch and Best Friends are two such organizations considered currently.
+10% of all funds will go towards buying carbon assets
 
 ![](.gitbook/assets/pd206-21a\_1.jpg) ![](<.gitbook/assets/il\_fullxfull.1751107848\_e4bv (1).jpg>)
 
