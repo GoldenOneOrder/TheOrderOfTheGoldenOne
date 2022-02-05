@@ -16,6 +16,6 @@ The generated liquidity through fees is then automatically split into the follow
 * Treasury Investments to grow treasury and earn yield (30%)​
 * Project Development and Funding (30%)
 * Marketing (30%)
-* Purchasing carbon credits (10%)
+* Carbon Credits (10%)
 
 We will add liquidity every time a certain threshold is met. UNIV did 10M & 100M and we will follow similar thresholds, or adjust depending on the value of KIN.
